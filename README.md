@@ -3,8 +3,8 @@
 My name is Oselio, BI Consultant from Brazil living currently in Portugal.
 
 - 🔍 I have developed end-to-end projects being responsible for gathering requirements, implementing improvements and adjustments for different segments such Aluminum Industry, Solar Energy, Agribusiness and Food.
-* 🖥️ I am always reading and learning about lastest data tech, exploring new solutions with them. 
-* 🤖 Manual tasks are boring, thus I tend to automate everything.
+- 🖥️ I am always reading and learning about lastest data tech, exploring new solutions with them. 
+- 🤖 Manual tasks are boring, thus I tend to automate everything.
 
 ## 🔗 Social 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/oseliocandido)
