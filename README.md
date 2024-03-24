@@ -36,5 +36,5 @@ Hi, my name is Oselio, BI Consultant from Brazil living currently in Portugal.
     <img src="./logos/docker.png" alt="docker" style="vertical-align:top; margin:4px; height:40px; width:40px">
     <img src="./logos/linux.png" alt="linux" style="vertical-align:top; margin:4px; height:40px; width:40px">
     <img src="./logos/streamlit.png" alt="streamlit" style="vertical-align:top; margin:4px; height:40px; width:40px">
-    <img src="./logos/powerbi.png" alt="pydantic" style="vertical-align:top; margin:4px; height:40px; width:40px">
+    <img src="./logos/powerbi.png" alt="powerbi" style="vertical-align:top; margin:4px; height:40px; width:40px">
 </div>
