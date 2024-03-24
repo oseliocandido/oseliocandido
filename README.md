@@ -1,6 +1,6 @@
 #  💬 About me
 
-My name is Oselio, BI Consultant from Brazil living currently in Portugal.
+Hi, my name is Oselio, BI Consultant from Brazil living currently in Portugal.
 
 - 🔍 I have developed end-to-end projects being responsible for gathering requirements, implementing improvements and adjustments for different segments such Aluminum Industry, Solar Energy, Agribusiness and Food.
 - 🖥️ I am always reading and learning about lastest data tech, exploring new solutions with them. 
