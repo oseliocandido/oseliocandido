@@ -1,7 +1,8 @@
 #  💬 About me
 
-Hi, my name is Oselio, a Data Engineerfrom Brazil living currently in Portugal.
+Hi, my name is Oselio, a Data Engineer from Brazil living currently in Portugal.
 
+- 🖥️ I enjoy learning new technologies and always explore new solutions with them. 
 - 🖥️ Diving into concepts beyond basic knowledge, constantly refining my skills to build scalable solutions.
 - 🤖 Manual tasks are boring, thus I tend to automate everything.
 
