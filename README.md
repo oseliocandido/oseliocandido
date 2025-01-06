@@ -1,31 +1,25 @@
 #  💬 About me
 
-Hi, my name is Oselio, BI Consultant from Brazil living currently in Portugal.
+Hi, my name is Oselio, a Data Engineerfrom Brazil living currently in Portugal.
 
-- 🔍 I have developed end-to-end projects being responsible for gathering requirements, implementing improvements and adjustments for different segments such Aluminum Industry, Solar Energy, Agribusiness and Food.
-- 🖥️ I am always reading and learning about lastest data tech, exploring new solutions with them. 
+- 🖥️ Diving into concepts beyond basic knowledge, constantly refining my skills to build scalable solutions.
 - 🤖 Manual tasks are boring, thus I tend to automate everything.
 
 ## 🔗 Social 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/oseliocandido)
 
-## 🛠️ Stack
-- **Analytics Engineering:** dbt, Big Query
+## 🛠️ Tech Stack  
 
-- **Programming:** Python
+**🚀 Programming** Python, SQL  
+**🗄️ Data Engineering:** dbt, BigQuery, Databricks  
+**🗃️ Databases:** SQL Server, PostgreSQL  
+**☁️ Cloud Platforms:** AWS (S3, EC2)  
+**⚙️ Orchestration:** Azure Data Factory  
+**🧩 API Development:** FastAPI  
+**🐋 DevOps & Containerization:** Docker  
+**📊 Data Visualization:** Power BI, Streamlit, DAX  
+**✅ Data Quality & Validation:** pydantic
 
-- **Database:** SQL Server, Postgres
-
-- **AWS:** S3, EC2, IAM
-
-- **API:** FastAPI
-
-- **DevOps:** Docker
-
-- **Data Quality:** pydantic
-
-- **Data Visualization** Power BI, streamlit
-  
 <div style="display: inline-block;">
     <img src="./logos/python.png" alt="python" style="vertical-align:top; margin:4px; height:40px; width:40px">
     <img src="./logos/sql.png" alt="docker" style="vertical-align:top; margin:4px; height:40px; width:40px">
@@ -38,3 +32,6 @@ Hi, my name is Oselio, BI Consultant from Brazil living currently in Portugal.
     <img src="./logos/streamlit.png" alt="streamlit" style="vertical-align:top; margin:4px; height:40px; width:40px">
     <img src="./logos/powerbi.png" alt="powerbi" style="vertical-align:top; margin:4px; height:40px; width:40px">
 </div>
+
+##  🧑‍💻 Current Focus
+- 📚 Sharpening my CS knowledge to drive architecture improvements and feature additions for my system.
