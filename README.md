@@ -1,13 +1,14 @@
-**Backend & data platform engineer building reliable SaaS systems and data platforms on Databricks — increasingly with AI agents as part of the toolchain.**
+# Oselio Candido
 
-I work across the stack from PostgreSQL schema design up through FastAPI services to production CI/CD. I care more about correctness, explicit boundaries, and systems that fail predictably than about chasing frameworks.
+**Data & Backend Engineer** based in Lisbon, Portugal — 5+ years designing and optimizing data platforms and backend systems across solar energy, agribusiness, and risk management, increasingly with AI agents as part of the toolchain.
+
+I work across the stack from PostgreSQL schema design and Databricks medallion pipelines up through FastAPI services to production CI/CD. I care more about correctness, explicit boundaries, and systems that fail predictably than about chasing frameworks.
 
 ## What I Build
 
 - **Backend APIs & services** — async FastAPI services backed by SQLAlchemy/asyncpg, structured around domain-driven layering (domain → application → infrastructure → presentation)
 - **SaaS products** — contributing to a multi-tenant booking SaaS for service businesses (tenant isolation enforced at the application layer), plus smaller SaaS products I build solo end to end
 - **Databricks lakehouse pipelines** — layered Delta pipelines with incremental loads, environment-aware orchestration, and Asset Bundle-driven deployments
-- **Data pipelines** — dbt + PostgreSQL pipelines on AWS
 - **Quality & CI/CD infrastructure** — enforced coverage/complexity/lint gates wired into layered pipelines (unit, integration, security, quality) across GitHub Actions and GitLab CI
 
 ## Engineering Interests
@@ -18,7 +19,7 @@ Data modeling · API design · authentication & authorization · data governance
 
 **Backend:** Python · FastAPI · async SQLAlchemy · asyncpg · Alembic · Pydantic
 
-**Data:** SQL · PostgreSQL · Databricks (Delta Lake, Unity Catalog, Asset Bundles) · dbt · ETL/ELT pipelines
+**Data:** SQL · PySpark · PostgreSQL · Databricks (Delta Lake, Unity Catalog, Asset Bundles) · dbt · ETL/ELT pipelines
 
 **Infrastructure:** Docker · Docker Compose · Nginx · Linux · Redis · AWS S3 · Terraform · GitHub Actions & GitLab CI/CD
 
