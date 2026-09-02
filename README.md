@@ -17,7 +17,7 @@ I work across the stack from PostgreSQL schema design and Databricks medallion p
 
 **Data:** SQL · PySpark · PostgreSQL · Databricks (Delta Lake, Unity Catalog, Asset Bundles) · dbt · ETL/ELT pipelines
 
-**Infrastructure:** Docker · Docker Compose · Nginx · Linux · Redis · Azure · AWS · Terraform · GitHub Actions & GitLab CI/CD
+**Infrastructure:** Docker · Docker Compose · Nginx · Linux · Redis · Azure · AWS · GitHub Actions & GitLab CI/CD
 
 **Frontend:** TypeScript · React
 
