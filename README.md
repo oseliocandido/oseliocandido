@@ -11,10 +11,6 @@ I work across the stack from PostgreSQL schema design and Databricks medallion p
 - **Databricks lakehouse pipelines** — layered Delta pipelines with incremental loads, environment-aware orchestration, and Asset Bundle-driven deployments
 - **Quality & CI/CD infrastructure** — enforced coverage/complexity/lint gates wired into layered pipelines (unit, integration, security, quality) across GitHub Actions and GitLab CI
 
-## Engineering Interests
-
-Data modeling · API design · authentication & authorization · data governance · CI/CD quality gates · pragmatic, tool-assisted engineering
-
 ## Technology Stack
 
 **Backend:** Python · FastAPI · async SQLAlchemy · asyncpg · Alembic · Pydantic
