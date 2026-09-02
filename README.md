@@ -21,7 +21,7 @@ I work across the stack from PostgreSQL schema design and Databricks medallion p
 
 **Frontend:** TypeScript · React
 
-**Engineering practice:** Git · automated quality gates (coverage, mypy, ruff, radon) · testing (pytest, unit + integration) · CI/CD security & dependency vulnerability scanning
+**Engineering practice:** automated quality gates — test coverage, cyclomatic complexity thresholds, linters, static analysis · testing (unit, integration, smoke) · CI/CD — shell scripting, GitHub Actions & GitLab CI/CD components, dependency vulnerability scanning
 
 <div>
     <img src="./logos/python.png" alt="python" height="32" width="32">
