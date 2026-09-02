@@ -28,6 +28,7 @@ I work across the stack from PostgreSQL schema design and Databricks medallion p
     <img src="./logos/fastapi.svg" alt="fastapi" height="32" width="32">
     <img src="./logos/sqlalchemy.svg" alt="sqlalchemy" height="32" width="32">
     <img src="./logos/postgresql.png" alt="postgresql" height="32" width="32">
+    <img src="./logos/databricks.svg" alt="databricks" height="32" width="32">
     <img src="./logos/redis.svg" alt="redis" height="32" width="32">
     <img src="./logos/docker.png" alt="docker" height="32" width="32">
     <img src="./logos/typescript.svg" alt="typescript" height="32" width="32">
