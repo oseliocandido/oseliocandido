@@ -1,6 +1,6 @@
 # Oselio Candido
 
-**Backend & data engineer building reliable SaaS systems and data platforms — increasingly with AI agents as part of the toolchain.**
+**Backend & data platform engineer building reliable SaaS systems and data platforms on Databricks — increasingly with AI agents as part of the toolchain.**
 
 I work across the stack from PostgreSQL schema design up through FastAPI services to production CI/CD. I care more about correctness, explicit boundaries, and systems that fail predictably than about chasing frameworks.
 
@@ -8,24 +8,25 @@ I work across the stack from PostgreSQL schema design up through FastAPI service
 
 - **Backend APIs & services** — async FastAPI services backed by SQLAlchemy/asyncpg, structured around domain-driven layering (domain → application → infrastructure → presentation)
 - **SaaS products** — currently a multi-tenant booking/scheduling platform, with tenant isolation enforced at the application layer
+- **Databricks lakehouse pipelines** — layered Delta pipelines with incremental loads, environment-aware orchestration, and Asset Bundle-driven deployments
 - **Data pipelines** — dbt + PostgreSQL pipelines on AWS
-- **Quality & CI/CD infrastructure** — enforced coverage/complexity/lint gates wired into layered GitHub Actions pipelines (unit, integration, security, quality)
+- **Quality & CI/CD infrastructure** — enforced coverage/complexity/lint gates wired into layered pipelines (unit, integration, security, quality) across GitHub Actions and GitLab CI
 
 ## Engineering Interests
 
-Data modeling · API design · authentication & authorization · CI/CD quality gates · pragmatic, tool-assisted engineering
+Data modeling · API design · authentication & authorization · data governance · CI/CD quality gates · pragmatic, tool-assisted engineering
 
 ## Technology Stack
 
 **Backend:** Python · FastAPI · async SQLAlchemy · asyncpg · Alembic · Pydantic
 
-**Data:** SQL · PostgreSQL · dbt · Databricks · ETL/ELT pipelines
+**Data:** SQL · PostgreSQL · Databricks (Delta Lake, Unity Catalog, Asset Bundles) · dbt · ETL/ELT pipelines
 
-**Infrastructure:** Docker · Docker Compose · Nginx · Linux · Redis · AWS S3 · GitHub Actions (CI/CD)
+**Infrastructure:** Docker · Docker Compose · Nginx · Linux · Redis · AWS S3 · Terraform · GitHub Actions & GitLab CI/CD
 
 **Frontend:** TypeScript · React
 
-**Engineering practice:** Git · automated quality gates (coverage, mypy, ruff, radon) · testing (pytest, unit + integration) · security-scanned CI pipelines
+**Engineering practice:** Git · automated quality gates (coverage, mypy, ruff, radon) · testing (pytest, unit + integration) · CI/CD security & dependency vulnerability scanning
 
 <div>
     <img src="./logos/python.png" alt="python" height="32" width="32">
@@ -49,6 +50,7 @@ I use Claude Code as my primary development tool — its native harness (hooks, 
 - Model the domain before choosing abstractions.
 - Prefer explicit boundaries over implicit magic.
 - Treat the database as part of the correctness model, not an afterthought.
+- Apply the same schema-migration discipline to lakehouse tables as to relational databases (Alembic against Databricks catalogs, not ad hoc DDL).
 - Automate the parts of engineering that don't require judgment — quality gates, not code review.
 - Use AI agents as engineering tools with enforced guardrails, not as a replacement for engineering judgment.
 - Prefer a simple architecture until complexity is actually justified.
