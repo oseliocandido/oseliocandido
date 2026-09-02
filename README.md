@@ -1,5 +1,3 @@
-# Oselio Candido
-
 **Backend & data platform engineer building reliable SaaS systems and data platforms on Databricks — increasingly with AI agents as part of the toolchain.**
 
 I work across the stack from PostgreSQL schema design up through FastAPI services to production CI/CD. I care more about correctness, explicit boundaries, and systems that fail predictably than about chasing frameworks.
