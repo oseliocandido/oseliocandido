@@ -52,7 +52,7 @@ I use Claude Code as my primary development tool — its native harness (hooks, 
 
 ## Current Focus
 
-Contributing backend work to a multi-tenant booking SaaS for service businesses (salons, clinics), alongside a few full-stack products I build solo end to end:
+Building a multi-tenant booking SaaS for service businesses (salons, clinics) end to end — backend, frontend, and infrastructure — alongside a few other full-stack products:
 
 - **Bakery-System** — an ERP for a bakery business: inventory purchasing decisions, financials, and staff management in one system
 - **saft-tp** — a SaaS that turns Portuguese SAF-T fiscal invoice data into sales, product, and customer analytics for small businesses
