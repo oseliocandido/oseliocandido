@@ -59,4 +59,4 @@ Building a multi-tenant booking/scheduling SaaS end to end — backend, frontend
 
 ## Contact
 
-[LinkedIn](https://linkedin.com/in/oseliocandido) · Blog: coming soon
+[LinkedIn](https://linkedin.com/in/oseliocandido) · [Blog](https://oseliocandido.tech)
