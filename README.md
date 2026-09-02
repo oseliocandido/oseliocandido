@@ -5,7 +5,7 @@ I work across the stack from PostgreSQL schema design up through FastAPI service
 ## What I Build
 
 - **Backend APIs & services** — async FastAPI services backed by SQLAlchemy/asyncpg, structured around domain-driven layering (domain → application → infrastructure → presentation)
-- **SaaS products** — currently a multi-tenant booking/scheduling platform, with tenant isolation enforced at the application layer
+- **SaaS products** — contributing to a multi-tenant booking SaaS for service businesses (tenant isolation enforced at the application layer), plus smaller SaaS products I build solo end to end
 - **Databricks lakehouse pipelines** — layered Delta pipelines with incremental loads, environment-aware orchestration, and Asset Bundle-driven deployments
 - **Data pipelines** — dbt + PostgreSQL pipelines on AWS
 - **Quality & CI/CD infrastructure** — enforced coverage/complexity/lint gates wired into layered pipelines (unit, integration, security, quality) across GitHub Actions and GitLab CI
@@ -55,7 +55,13 @@ I use Claude Code as my primary development tool — its native harness (hooks, 
 
 ## Current Focus
 
-Building a multi-tenant booking/scheduling SaaS end to end — backend, frontend, and infrastructure — while refining how I use Claude Code's agent tooling in day-to-day development.
+Contributing backend work to a multi-tenant booking SaaS for service businesses (salons, clinics), alongside a few full-stack products I build solo end to end:
+
+- **Bakery-System** — an ERP for a bakery business: inventory purchasing decisions, financials, and staff management in one system
+- **saft-tp** — a SaaS that turns Portuguese SAF-T fiscal invoice data into sales, product, and customer analytics for small businesses
+- **Activity Tracker** — a shared activity/reminder tracker for a small team, with a full audit trail and live cross-device notifications
+
+(These three are private repos for now.)
 
 ## Contact
 
