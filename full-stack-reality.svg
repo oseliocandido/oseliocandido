@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 980" font-family="'Segoe UI', Arial, sans-serif">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 1030" font-family="'Segoe UI', Arial, sans-serif">
   <defs>
     <linearGradient id="titleGrad" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0%" stop-color="#fca311"/>
@@ -7,7 +7,7 @@
     </linearGradient>
   </defs>
 
-  <rect width="520" height="980" fill="#0a0e14"/>
+  <rect width="520" height="1030" fill="#0a0e14"/>
 
   <!-- Title -->
   <text x="260" y="55" text-anchor="middle" font-size="30" font-weight="800" fill="#ffffff" letter-spacing="1">The Complete Production Stack</text>
@@ -27,38 +27,41 @@
     <rect x="40" y="270" width="440" height="46" rx="6" fill="#a855f7"/>
     <text x="60" y="299" fill="#ffffff">Auth &amp; Tenant Isolation — JWT scoping</text>
 
-    <rect x="40" y="320" width="440" height="46" rx="6" fill="#ef4444"/>
-    <text x="60" y="349" fill="#ffffff">Caching &amp; Sessions — Redis</text>
+    <rect x="40" y="320" width="440" height="46" rx="6" fill="#ec4899"/>
+    <text x="60" y="349" fill="#ffffff">Security — CORS, CSRF, XSS, SQLi Defense</text>
 
-    <rect x="40" y="370" width="440" height="46" rx="6" fill="#6b7280"/>
-    <text x="60" y="399" fill="#ffffff">Containerized Deployment — Docker</text>
+    <rect x="40" y="370" width="440" height="46" rx="6" fill="#ef4444"/>
+    <text x="60" y="399" fill="#ffffff">Caching &amp; Sessions — Redis</text>
 
-    <rect x="40" y="420" width="440" height="46" rx="6" fill="#14b8a6"/>
-    <text x="60" y="449" fill="#0a0e14">Reverse Proxy &amp; Rate Limiting — Nginx</text>
+    <rect x="40" y="420" width="440" height="46" rx="6" fill="#6b7280"/>
+    <text x="60" y="449" fill="#ffffff">Containerized Deployment — Docker</text>
 
-    <rect x="40" y="470" width="440" height="46" rx="6" fill="#eab308"/>
-    <text x="60" y="499" fill="#0a0e14">CI/CD &amp; Quality Gates — GitHub Actions</text>
+    <rect x="40" y="470" width="440" height="46" rx="6" fill="#14b8a6"/>
+    <text x="60" y="499" fill="#0a0e14">Reverse Proxy &amp; Rate Limiting — Nginx</text>
 
-    <rect x="40" y="520" width="440" height="46" rx="6" fill="#0ea5e9"/>
-    <text x="60" y="549" fill="#0a0e14">Observability — Audit Trails &amp; Logging</text>
+    <rect x="40" y="520" width="440" height="46" rx="6" fill="#eab308"/>
+    <text x="60" y="549" fill="#0a0e14">CI/CD &amp; Quality Gates — GitHub + GitLab CI</text>
 
-    <rect x="40" y="570" width="440" height="46" rx="6" fill="#f97316"/>
-    <text x="60" y="599" fill="#0a0e14">Reliability — Errors &amp; Health Checks</text>
+    <rect x="40" y="570" width="440" height="46" rx="6" fill="#0ea5e9"/>
+    <text x="60" y="599" fill="#0a0e14">Observability — Audit Trails &amp; Logging</text>
+
+    <rect x="40" y="620" width="440" height="46" rx="6" fill="#f97316"/>
+    <text x="60" y="649" fill="#0a0e14">Reliability — Errors &amp; Health Checks</text>
   </g>
 
   <!-- Callout -->
-  <rect x="40" y="636" width="440" height="70" rx="10" fill="#0d1a2b" stroke="#4f8ff7" stroke-width="1.5"/>
-  <text x="260" y="666" text-anchor="middle" font-size="15" font-weight="700" fill="#4f8ff7">✓ Complete, Production-Grade</text>
-  <text x="260" y="688" text-anchor="middle" font-size="12" fill="#c7ccd4">No layer skipped, nothing bolted on later.</text>
+  <rect x="40" y="686" width="440" height="70" rx="10" fill="#0d1a2b" stroke="#4f8ff7" stroke-width="1.5"/>
+  <text x="260" y="716" text-anchor="middle" font-size="15" font-weight="700" fill="#4f8ff7">✓ Complete, Production-Grade</text>
+  <text x="260" y="738" text-anchor="middle" font-size="12" fill="#c7ccd4">No layer skipped, nothing bolted on later.</text>
 
   <!-- Footer -->
-  <line x1="40" y1="740" x2="480" y2="740" stroke="#232a35" stroke-width="1"/>
-  <text x="260" y="790" text-anchor="middle" font-size="20" font-weight="800" fill="#ffffff">BUILD MORE THAN CODE.</text>
-  <text x="260" y="822" text-anchor="middle" font-size="20" font-weight="800" fill="url(#titleGrad)">REAL PRODUCTS, END TO END.</text>
+  <line x1="40" y1="790" x2="480" y2="790" stroke="#232a35" stroke-width="1"/>
+  <text x="260" y="840" text-anchor="middle" font-size="20" font-weight="800" fill="#ffffff">BUILD MORE THAN CODE.</text>
+  <text x="260" y="872" text-anchor="middle" font-size="20" font-weight="800" fill="url(#titleGrad)">REAL PRODUCTS, END TO END.</text>
 
-  <text x="260" y="865" text-anchor="middle" font-size="13" fill="#9aa4b2">Every layer above shipped in production, end to end, on three projects I own solo:</text>
-  <text x="260" y="888" text-anchor="middle" font-size="12.5" font-weight="600" fill="#c7ccd4">Bakery-System (ERP) · saft-tp (SAF-T analytics SaaS) · Activity Tracker</text>
+  <text x="260" y="915" text-anchor="middle" font-size="13" fill="#9aa4b2">Every layer above shipped in production, end to end, on three projects I own solo:</text>
+  <text x="260" y="938" text-anchor="middle" font-size="12.5" font-weight="600" fill="#c7ccd4">Bakery-System (ERP) · saft-tp (SAF-T analytics SaaS) · Activity Tracker</text>
 
-  <text x="260" y="935" text-anchor="middle" font-size="16" font-weight="700" fill="#fca311">— Oselio Candido</text>
-  <text x="260" y="958" text-anchor="middle" font-size="12.5" fill="#6b7280">Backend &amp; Data Platform Engineer</text>
+  <text x="260" y="985" text-anchor="middle" font-size="16" font-weight="700" fill="#fca311">— Oselio Candido</text>
+  <text x="260" y="1008" text-anchor="middle" font-size="12.5" fill="#6b7280">Backend &amp; Data Platform Engineer</text>
 </svg>

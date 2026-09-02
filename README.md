@@ -60,6 +60,8 @@ Contributing backend work to a multi-tenant booking SaaS for service businesses 
 
 (These three are private repos for now.)
 
+Also studying Terraform, working toward a mid-term move into Data Platform Engineering.
+
 <div align="center">
   <img src="./full-stack-reality.svg" alt="Full-stack production reality: frontend, backend, database, auth, caching, deployment, CI/CD, observability, and reliability, all shipped end to end" width="420">
 </div>
