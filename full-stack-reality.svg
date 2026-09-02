@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 1180" font-family="'Segoe UI', Arial, sans-serif">
+  <defs>
+    <linearGradient id="titleGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#fca311"/>
+      <stop offset="55%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#4f8ff7"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="720" height="1180" fill="#0a0e14"/>
+
+  <!-- Title -->
+  <text x="360" y="70" text-anchor="middle" font-size="46" font-weight="800" fill="url(#titleGrad)" letter-spacing="2">MYTH vs REALITY</text>
+  <text x="360" y="100" text-anchor="middle" font-size="16" font-weight="600" fill="#9aa4b2" letter-spacing="3">WHAT "FULL-STACK" ACTUALLY MEANS</text>
+
+  <!-- Column headers -->
+  <rect x="40" y="135" width="130" height="26" rx="13" fill="#3a2410"/>
+  <text x="105" y="153" text-anchor="middle" font-size="13" font-weight="700" fill="#fca311" letter-spacing="1">THE MYTH</text>
+
+  <rect x="550" y="135" width="130" height="26" rx="13" fill="#0f2340"/>
+  <text x="615" y="153" text-anchor="middle" font-size="13" font-weight="700" fill="#4f8ff7" letter-spacing="1">THE REALITY</text>
+
+  <text x="40" y="200" font-size="26" font-weight="800" fill="#fca311" text-decoration="underline">"Vibe Coders"</text>
+  <text x="40" y="228" font-size="20" font-weight="700" fill="#ffffff">Think Full-Stack Is</text>
+
+  <text x="550" y="200" font-size="26" font-weight="800" fill="#4f8ff7" text-decoration="underline" text-anchor="end">Full-Stack</text>
+  <text x="680" y="228" font-size="20" font-weight="700" fill="#ffffff" text-anchor="end">Production Engineering</text>
+
+  <!-- Myth: two-block cylinder -->
+  <rect x="40" y="260" width="150" height="80" rx="10" fill="#fca311"/>
+  <text x="115" y="308" text-anchor="middle" font-size="18" font-weight="700" fill="#0a0e14">Frontend</text>
+  <rect x="40" y="344" width="150" height="80" rx="10" fill="#14213d"/>
+  <text x="115" y="392" text-anchor="middle" font-size="18" font-weight="700" fill="#ffffff">Backend</text>
+
+  <rect x="40" y="450" width="150" height="70" rx="8" fill="#1a1f28" stroke="#fca311" stroke-width="1.5"/>
+  <text x="115" y="474" text-anchor="middle" font-size="13" font-weight="700" fill="#fca311">✕ Too Simple</text>
+  <text x="115" y="492" text-anchor="middle" font-size="10.5" fill="#c7ccd4">Not just Frontend</text>
+  <text x="115" y="506" text-anchor="middle" font-size="10.5" fill="#c7ccd4">and Backend.</text>
+
+  <!-- Reality: real stack, grounded in Bakery-System / saft-tp / Activity Tracker -->
+  <!-- 10 layers, each 44px tall, starting y=260 -->
+  <g font-size="13.5" font-weight="700" fill="#0a0e14">
+    <rect x="400" y="260" width="280" height="42" rx="6" fill="#fca311"/>
+    <text x="416" y="286">Frontend — React + TypeScript</text>
+
+    <rect x="400" y="304" width="280" height="42" rx="6" fill="#4f8ff7"/>
+    <text x="416" y="330" fill="#0a0e14">APIs &amp; Backend Logic — FastAPI</text>
+
+    <rect x="400" y="348" width="280" height="42" rx="6" fill="#3ecf6e"/>
+    <text x="416" y="374">Database &amp; Migrations — Postgres + Alembic</text>
+
+    <rect x="400" y="392" width="280" height="42" rx="6" fill="#a855f7"/>
+    <text x="416" y="418" fill="#ffffff">Auth &amp; Tenant Isolation — JWT + scoping</text>
+
+    <rect x="400" y="436" width="280" height="42" rx="6" fill="#ef4444"/>
+    <text x="416" y="462" fill="#ffffff">Caching &amp; Sessions — Redis</text>
+
+    <rect x="400" y="480" width="280" height="42" rx="6" fill="#6b7280"/>
+    <text x="416" y="506" fill="#ffffff">Containerized Deployment — Docker</text>
+
+    <rect x="400" y="524" width="280" height="42" rx="6" fill="#14b8a6"/>
+    <text x="416" y="550">Reverse Proxy &amp; Rate Limiting — Nginx</text>
+
+    <rect x="400" y="568" width="280" height="42" rx="6" fill="#eab308"/>
+    <text x="416" y="594">CI/CD &amp; Quality Gates — GH Actions</text>
+
+    <rect x="400" y="612" width="280" height="42" rx="6" fill="#0ea5e9"/>
+    <text x="416" y="638" fill="#ffffff">Observability — audit trails, logging</text>
+
+    <rect x="400" y="656" width="280" height="42" rx="6" fill="#f97316"/>
+    <text x="416" y="682">Reliability — errors, health checks</text>
+  </g>
+
+  <rect x="400" y="712" width="280" height="70" rx="8" fill="#0d1a2b" stroke="#4f8ff7" stroke-width="1.5"/>
+  <text x="540" y="736" text-anchor="middle" font-size="13" font-weight="700" fill="#4f8ff7">✓ Real Full-Stack</text>
+  <text x="540" y="754" text-anchor="middle" font-size="10.5" fill="#c7ccd4">It's the complete</text>
+  <text x="540" y="768" text-anchor="middle" font-size="10.5" fill="#c7ccd4">production puzzle.</text>
+
+  <!-- Footer -->
+  <line x1="40" y1="840" x2="680" y2="840" stroke="#232a35" stroke-width="1"/>
+  <text x="360" y="895" text-anchor="middle" font-size="20" font-weight="800" fill="#ffffff">BUILD MORE THAN CODE.</text>
+  <text x="360" y="928" text-anchor="middle" font-size="20" font-weight="800" fill="url(#titleGrad)">REAL PRODUCTS, END TO END.</text>
+
+  <text x="360" y="975" text-anchor="middle" font-size="14" fill="#9aa4b2">Every layer above shipped in production, end to end, on three projects I own solo:</text>
+  <text x="360" y="1000" text-anchor="middle" font-size="13.5" font-weight="600" fill="#c7ccd4">Bakery-System (ERP) · saft-tp (SAF-T analytics SaaS) · Activity Tracker</text>
+
+  <text x="360" y="1055" text-anchor="middle" font-size="16" font-weight="700" fill="#fca311">— Oselio Candido</text>
+  <text x="360" y="1080" text-anchor="middle" font-size="12.5" fill="#6b7280">Backend &amp; Data Platform Engineer</text>
+</svg>
