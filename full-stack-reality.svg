@@ -11,7 +11,7 @@
 
   <!-- Title -->
   <text x="260" y="55" text-anchor="middle" font-size="30" font-weight="800" fill="#ffffff" letter-spacing="1">The Complete Production Stack</text>
-  <text x="260" y="82" text-anchor="middle" font-size="14" font-weight="600" fill="#9aa4b2" letter-spacing="2">EVERY LAYER, SHIPPED SOLO, END TO END</text>
+  <text x="260" y="82" text-anchor="middle" font-size="14" font-weight="600" fill="#9aa4b2" letter-spacing="2">EVERY LAYER, SHIPPED IN PRODUCTION</text>
 
   <!-- Stack -->
   <g font-size="14" font-weight="700">
@@ -28,7 +28,7 @@
     <text x="60" y="299" fill="#ffffff">Auth &amp; Tenant Isolation — JWT scoping</text>
 
     <rect x="40" y="320" width="440" height="46" rx="6" fill="#ec4899"/>
-    <text x="60" y="349" fill="#ffffff">Security — CORS, CSRF, XSS, SQLi Defense</text>
+    <text x="60" y="349" fill="#ffffff">Security — CORS, CSRF, XSS, Dependency Scans</text>
 
     <rect x="40" y="370" width="440" height="46" rx="6" fill="#ef4444"/>
     <text x="60" y="399" fill="#ffffff">Caching &amp; Sessions — Redis</text>
